@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ydvyashva/CODEX/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0141-linked-list-cycle](https://github.com/ydvyashva/CODEX/tree/master/0141-linked-list-cycle) |
 ## String
 |  |
 | ------- |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/ydvyashva/CODEX/tree/master/0141-linked-list-cycle) |
 | [2000-reverse-prefix-of-word](https://github.com/ydvyashva/CODEX/tree/master/2000-reverse-prefix-of-word) |
 ## Stack
 |  |
@@ -53,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/ydvyashva/CODEX/tree/master/0100-same-tree) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/ydvyashva/CODEX/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
