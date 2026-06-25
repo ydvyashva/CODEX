@@ -20,12 +20,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/ydvyashva/CODEX/tree/master/0189-rotate-array) |
 | [1000-minimum-cost-to-merge-stones](https://github.com/ydvyashva/CODEX/tree/master/1000-minimum-cost-to-merge-stones) |
 | [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/ydvyashva/CODEX/tree/master/3000-maximum-area-of-longest-diagonal-rectangle) |
 ## Two Pointers
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/ydvyashva/CODEX/tree/master/0141-linked-list-cycle) |
+| [0189-rotate-array](https://github.com/ydvyashva/CODEX/tree/master/0189-rotate-array) |
 | [2000-reverse-prefix-of-word](https://github.com/ydvyashva/CODEX/tree/master/2000-reverse-prefix-of-word) |
 ## Stack
 |  |
@@ -59,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/ydvyashva/CODEX/tree/master/0141-linked-list-cycle) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/ydvyashva/CODEX/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
