@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/ydvyashva/CODEX/tree/master/0867-transpose-matrix) |
 | [1000-minimum-cost-to-merge-stones](https://github.com/ydvyashva/CODEX/tree/master/1000-minimum-cost-to-merge-stones) |
 | [1004-max-consecutive-ones-iii](https://github.com/ydvyashva/CODEX/tree/master/1004-max-consecutive-ones-iii) |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/ydvyashva/CODEX/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/ydvyashva/CODEX/tree/master/3000-maximum-area-of-longest-diagonal-rectangle) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ydvyashva/CODEX/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ydvyashva/CODEX/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/ydvyashva/CODEX/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/ydvyashva/CODEX/tree/master/0073-set-matrix-zeroes) |
 | [0867-transpose-matrix](https://github.com/ydvyashva/CODEX/tree/master/0867-transpose-matrix) |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/ydvyashva/CODEX/tree/master/1380-lucky-numbers-in-a-matrix) |
 ## Simulation
 |  |
 | ------- |
