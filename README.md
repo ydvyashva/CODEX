@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/ydvyashva/CODEX/tree/master/0283-move-zeroes) |
 | [0713-subarray-product-less-than-k](https://github.com/ydvyashva/CODEX/tree/master/0713-subarray-product-less-than-k) |
 | [0867-transpose-matrix](https://github.com/ydvyashva/CODEX/tree/master/0867-transpose-matrix) |
+| [0962-maximum-width-ramp](https://github.com/ydvyashva/CODEX/tree/master/0962-maximum-width-ramp) |
 | [1000-minimum-cost-to-merge-stones](https://github.com/ydvyashva/CODEX/tree/master/1000-minimum-cost-to-merge-stones) |
 | [1004-max-consecutive-ones-iii](https://github.com/ydvyashva/CODEX/tree/master/1004-max-consecutive-ones-iii) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/ydvyashva/CODEX/tree/master/1380-lucky-numbers-in-a-matrix) |
@@ -46,11 +47,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/ydvyashva/CODEX/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/ydvyashva/CODEX/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/ydvyashva/CODEX/tree/master/0283-move-zeroes) |
+| [0962-maximum-width-ramp](https://github.com/ydvyashva/CODEX/tree/master/0962-maximum-width-ramp) |
 | [2000-reverse-prefix-of-word](https://github.com/ydvyashva/CODEX/tree/master/2000-reverse-prefix-of-word) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ydvyashva/CODEX/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Stack
 |  |
 | ------- |
+| [0962-maximum-width-ramp](https://github.com/ydvyashva/CODEX/tree/master/0962-maximum-width-ramp) |
 | [2000-reverse-prefix-of-word](https://github.com/ydvyashva/CODEX/tree/master/2000-reverse-prefix-of-word) |
 ## Dynamic Programming
 |  |
@@ -137,4 +140,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ydvyashva/CODEX/tree/master/3532-path-existence-queries-in-a-graph-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0962-maximum-width-ramp](https://github.com/ydvyashva/CODEX/tree/master/0962-maximum-width-ramp) |
 <!---LeetCode Topics End-->
