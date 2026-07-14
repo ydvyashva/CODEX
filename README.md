@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/ydvyashva/CODEX/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/ydvyashva/CODEX/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/ydvyashva/CODEX/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/ydvyashva/CODEX/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/ydvyashva/CODEX/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ydvyashva/CODEX/tree/master/0189-rotate-array) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/ydvyashva/CODEX/tree/master/0074-search-a-2d-matrix) |
 | [0713-subarray-product-less-than-k](https://github.com/ydvyashva/CODEX/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/ydvyashva/CODEX/tree/master/1004-max-consecutive-ones-iii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ydvyashva/CODEX/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/ydvyashva/CODEX/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/ydvyashva/CODEX/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/ydvyashva/CODEX/tree/master/0074-search-a-2d-matrix) |
 | [0766-toeplitz-matrix](https://github.com/ydvyashva/CODEX/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/ydvyashva/CODEX/tree/master/0867-transpose-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/ydvyashva/CODEX/tree/master/1380-lucky-numbers-in-a-matrix) |
