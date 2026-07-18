@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ydvyashva/CODEX/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0151-reverse-words-in-a-string](https://github.com/ydvyashva/CODEX/tree/master/0151-reverse-words-in-a-string) |
+| [1528-shuffle-string](https://github.com/ydvyashva/CODEX/tree/master/1528-shuffle-string) |
 | [2000-reverse-prefix-of-word](https://github.com/ydvyashva/CODEX/tree/master/2000-reverse-prefix-of-word) |
 ## Sliding Window
 |  |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1000-minimum-cost-to-merge-stones](https://github.com/ydvyashva/CODEX/tree/master/1000-minimum-cost-to-merge-stones) |
 | [1004-max-consecutive-ones-iii](https://github.com/ydvyashva/CODEX/tree/master/1004-max-consecutive-ones-iii) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/ydvyashva/CODEX/tree/master/1380-lucky-numbers-in-a-matrix) |
+| [1528-shuffle-string](https://github.com/ydvyashva/CODEX/tree/master/1528-shuffle-string) |
 | [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/ydvyashva/CODEX/tree/master/3000-maximum-area-of-longest-diagonal-rectangle) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ydvyashva/CODEX/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ydvyashva/CODEX/tree/master/3534-path-existence-queries-in-a-graph-ii) |
