@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/ydvyashva/CODEX/tree/master/0242-valid-anagram) |
 | [1108-defanging-an-ip-address](https://github.com/ydvyashva/CODEX/tree/master/1108-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/ydvyashva/CODEX/tree/master/1528-shuffle-string) |
+| [1768-merge-strings-alternately](https://github.com/ydvyashva/CODEX/tree/master/1768-merge-strings-alternately) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/ydvyashva/CODEX/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2000-reverse-prefix-of-word](https://github.com/ydvyashva/CODEX/tree/master/2000-reverse-prefix-of-word) |
 ## Sliding Window
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/ydvyashva/CODEX/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/ydvyashva/CODEX/tree/master/0283-move-zeroes) |
 | [0962-maximum-width-ramp](https://github.com/ydvyashva/CODEX/tree/master/0962-maximum-width-ramp) |
+| [1768-merge-strings-alternately](https://github.com/ydvyashva/CODEX/tree/master/1768-merge-strings-alternately) |
 | [2000-reverse-prefix-of-word](https://github.com/ydvyashva/CODEX/tree/master/2000-reverse-prefix-of-word) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ydvyashva/CODEX/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Stack
