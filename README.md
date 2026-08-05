@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/ydvyashva/CODEX/tree/master/0713-subarray-product-less-than-k) |
 | [0766-toeplitz-matrix](https://github.com/ydvyashva/CODEX/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/ydvyashva/CODEX/tree/master/0867-transpose-matrix) |
+| [0877-stone-game](https://github.com/ydvyashva/CODEX/tree/master/0877-stone-game) |
 | [0962-maximum-width-ramp](https://github.com/ydvyashva/CODEX/tree/master/0962-maximum-width-ramp) |
 | [1000-minimum-cost-to-merge-stones](https://github.com/ydvyashva/CODEX/tree/master/1000-minimum-cost-to-merge-stones) |
 | [1004-max-consecutive-ones-iii](https://github.com/ydvyashva/CODEX/tree/master/1004-max-consecutive-ones-iii) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/ydvyashva/CODEX/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/ydvyashva/CODEX/tree/master/0119-pascals-triangle-ii) |
 | [0486-predict-the-winner](https://github.com/ydvyashva/CODEX/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/ydvyashva/CODEX/tree/master/0877-stone-game) |
 | [1000-minimum-cost-to-merge-stones](https://github.com/ydvyashva/CODEX/tree/master/1000-minimum-cost-to-merge-stones) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ydvyashva/CODEX/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Prefix Sum
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/ydvyashva/CODEX/tree/master/0189-rotate-array) |
 | [0486-predict-the-winner](https://github.com/ydvyashva/CODEX/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/ydvyashva/CODEX/tree/master/0877-stone-game) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -184,12 +187,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/ydvyashva/CODEX/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/ydvyashva/CODEX/tree/master/0877-stone-game) |
 ## Game Theory
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/ydvyashva/CODEX/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/ydvyashva/CODEX/tree/master/0877-stone-game) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/ydvyashva/CODEX/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/ydvyashva/CODEX/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
