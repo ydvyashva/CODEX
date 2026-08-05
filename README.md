@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/ydvyashva/CODEX/tree/master/0242-valid-anagram) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/ydvyashva/CODEX/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ydvyashva/CODEX/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3731-find-missing-elements](https://github.com/ydvyashva/CODEX/tree/master/3731-find-missing-elements) |
 ## String
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/ydvyashva/CODEX/tree/master/3000-maximum-area-of-longest-diagonal-rectangle) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ydvyashva/CODEX/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ydvyashva/CODEX/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3731-find-missing-elements](https://github.com/ydvyashva/CODEX/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ydvyashva/CODEX/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/ydvyashva/CODEX/tree/master/0242-valid-anagram) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ydvyashva/CODEX/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3731-find-missing-elements](https://github.com/ydvyashva/CODEX/tree/master/3731-find-missing-elements) |
 ## Counting
 |  |
 | ------- |
